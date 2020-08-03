@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Wendel&layout=compact&bg_color=000&title_color=b51414&icon_color=7a120a&text_color=fff)](https://github.com/Luiz-Wendel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Wendel&layout=compact&bg_color=000&title_color=b51414&icon_color=7a120a&text_color=fff)](https://github.com/Luiz-Wendel/Luiz-Wendel)
 
 <!--
 **Luiz-Wendel/Luiz-Wendel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
