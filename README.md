@@ -1,4 +1,4 @@
-[![Luiz Wendel's github stats](https://github-readme-stats.vercel.app/api?username=Luiz-Wendel&hide=prs,issues&show_icons=true&bg_color=000&title_color=b51414&icon_color=7a120a&text_color=fff)](https://github.com/Luiz-Wendel/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Wendel&layout=compact&bg_color=000&title_color=b51414&icon_color=7a120a&text_color=fff&hide=typescript)](https://github.com/Luiz-Wendel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Wendel&layout=compact&bg_color=000&title_color=b51414&icon_color=7a120a&text_color=fff&hide=typescript)](https://github.com/Luiz-Wendel/github-readme-stats)
 
 <!--
 **Luiz-Wendel/Luiz-Wendel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Luiz Wendel's github stats](https://github-readme-stats.vercel.app/api?username=Luiz-Wendel&hide=prs,issues&show_icons=true&bg_color=000&title_color=b51414&icon_color=7a120a&text_color=fff)](https://github.com/Luiz-Wendel/github-readme-stats)
 -->
