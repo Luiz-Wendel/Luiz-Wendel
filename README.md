@@ -1,12 +1,11 @@
 # Luiz Wendel
 
 ## Hi there 👋
-I love to solve problems using code.
-<br/>I'm a FullStack Developer with a degree in Computer Science :computer:
+I'm a FullStack Developer with a degree in Computer Science :computer:
 
 <br/> 🔭 **I’m currently:** training with private projects 
 <br/> 💬  **About me:** I love IT and everything associated with technology, coding, games, and watching Netflix/PrimeVideo
-<br/>🌱 **I'm currently learning:** Node.js, ReactJS
+<br/>🌱 **I'm currently learning:** Node.js, ReactJS, and soon Flutter
 <br/><br/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Wendel&layout=compact&bg_color=000&title_color=b51414&icon_color=7a120a&text_color=fff)](https://github.com/Luiz-Wendel/Luiz-Wendel)
 <br/><br/> 📫 **Contact me:** [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-alexandre-wendel-balbino-4a8639197/)](https://www.linkedin.com/in/luiz-alexandre-wendel-balbino-4a8639197/) [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandre.lawb@gmail.com)](mailto:alexandre.lawb@gmail.com)
 
