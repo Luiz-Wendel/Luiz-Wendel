@@ -3,11 +3,14 @@
 ## Hi there 👋
 I'm a FullStack Developer with a degree in Computer Science :computer:
 
-<br/> 🔭 **I’m currently:** training with private projects 
-<br/> 💬  **About me:** I love IT and everything associated with technology, coding, games, and watching Netflix/PrimeVideo
-<br/>🌱 **I'm currently learning:** Node.js, ReactJS, and soon Flutter
+<br/>🔭 **I’m currently:** Participating on the New Digital Program by wBrain. 
+<br/>💬 **About me:** I love IT and everything associated with technology, coding, games, and watching Netflix/PrimeVideo.
+<br/>🌱 **I'm currently learning:** Node.js, ReactJS and Flutter.
+<br/>🚀 **I'm currently working:** On some private projectsto improve my skills.
+<br/>⚡ **Fun fact:** The QWERTY keyboard was designed to slow you down.
+
 <br/><br/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Wendel&layout=compact&bg_color=000&title_color=b51414&icon_color=7a120a&text_color=fff)](https://github.com/Luiz-Wendel/Luiz-Wendel)
-<br/><br/> 📫 **Contact me:** [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-alexandre-wendel-balbino-4a8639197/)](https://www.linkedin.com/in/luiz-alexandre-wendel-balbino-4a8639197/) [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandre.lawb@gmail.com)](mailto:alexandre.lawb@gmail.com)
+<br/><br/>📫 **Contact me:** [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-alexandre-wendel-balbino-4a8639197/)](https://www.linkedin.com/in/luiz-alexandre-wendel-balbino-4a8639197/) [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandre.lawb@gmail.com)](mailto:alexandre.lawb@gmail.com)
 
 <!--
 **Luiz-Wendel/Luiz-Wendel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
