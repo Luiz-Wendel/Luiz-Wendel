@@ -3,10 +3,10 @@
 ## Hi there 👋
 I'm a FullStack Developer with a degree in Computer Science :computer:
 
-<br/>🔭 **I’m currently:** Participating on the New Digital Program by wBrain. 
+<br/>🔭 **I’m currently:** Begining my studies at Trybe. 
 <br/>💬 **About me:** I love IT and everything associated with technology, coding, games, and watching Netflix/PrimeVideo.
 <br/>🌱 **I'm currently learning:** Node.js, ReactJS and Flutter.
-<br/>🚀 **I'm currently working:** On some private projectsto improve my skills.
+<br/>🚀 **I'm currently working:** On some private projects to improve my skills.
 <br/>⚡ **Fun fact:** The QWERTY keyboard was designed to slow you down.
 
 <br/><br/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Wendel&layout=compact&bg_color=000&title_color=b51414&icon_color=7a120a&text_color=fff)](https://github.com/Luiz-Wendel/Luiz-Wendel)
