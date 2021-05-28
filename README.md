@@ -3,8 +3,8 @@
 ## Hi there 👋
 I'm a FullStack Developer with a degree in Computer Science :computer:
 
-<br/>🔭 **I’m currently:** Begining my studies at Trybe. 
-<br/>💬 **About me:** I love IT and everything associated with technology, coding, games, and watching Netflix/PrimeVideo.
+<br/>🔭 **I’m currently:** Learning at Trybe. 
+<br/>💬 **About me:** I love IT and everything associated with technology, coding, games, and watching films/series.
 <br/>🌱 **I'm currently learning:** Node.js, ReactJS and Flutter.
 <br/>🚀 **I'm currently working:** On some private projects to improve my skills.
 <br/>⚡ **Fun fact:** The QWERTY keyboard was designed to slow you down.
