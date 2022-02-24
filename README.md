@@ -3,9 +3,9 @@
 ## Hi there 👋
 I'm a FullStack Developer with a degree in Computer Science :computer:
 
-<br/>
+<!-- <br/> -->
 
-[![42 stats](https://badge42.herokuapp.com/api/stats/lalexand?privacyEmail=true&darkmode=true&cursus=Basecamp)](https://github.com/JaeSeoKim/badge42)
+<!-- [![42 stats](https://badge42.herokuapp.com/api/stats/lalexand?privacyEmail=true&darkmode=true&cursus=Basecamp)](https://github.com/JaeSeoKim/badge42) -->
 
 <br/>🔭 **I’m currently:** Learning @ Trybe & Basecamp @ 42SP.
 <br/>💬 **About me:** I love coding, solving problems and pushing myself into new grounds.
