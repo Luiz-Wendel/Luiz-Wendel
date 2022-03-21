@@ -7,18 +7,19 @@ I'm a FullStack Developer with a degree in Computer Science :computer:
 
 <!-- [![42 stats](https://badge42.herokuapp.com/api/stats/lalexand?privacyEmail=true&darkmode=true&cursus=Basecamp)](https://github.com/JaeSeoKim/badge42) -->
 
-<br/>🔭 **I’m currently:** Learning @ Trybe.
 <br/>💬 **About me:** I love coding, solving problems and pushing myself into new grounds.
-<br/>🌱 **I'm currently learning:** Node.js, ReactJS and Flutter.
+<br/>🌱 **I'm currently learning:** Golang.
 <br/>🚀 **I'm currently working:** On some private projects to improve my skills.
 <br/>🤯 **Fun fact:** The QWERTY keyboard was designed to slow you down.
 
 <br/><br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Wendel&layout=compact&bg_color=0d1117&title_color=b51414&icon_color=7a120a&text_color=fff)](https://github.com/Luiz-Wendel/Luiz-Wendel)
 [![Luiz Wendel's github stats](https://github-readme-stats.vercel.app/api?username=Luiz-Wendel&hide=stars,issues&show_icons=true&bg_color=0d1117&title_color=b51414&icon_color=7a120a&text_color=fff)](https://github.com/Luiz-Wendel/github-readme-stats)
-<br/><br/>
 
-⚡ **My skills:**
+<br/>
+
+<br/>⚡ **My skills:**
 <section style="display: flex">
   <img title="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
