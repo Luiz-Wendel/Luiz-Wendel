@@ -9,7 +9,7 @@ I'm a FullStack Developer with a degree in Computer Science :computer:
 
 <br/>💬 **About me:** I love coding, solving problems and pushing myself into new grounds.
 <br/>🌱 **I'm currently learning:** Golang.
-<br/>🚀 **I'm currently working:** On some private projects to improve my skills.
+<br/>🚀 **I'm currently working:** as Software Developer @ Mercado Livre.
 <br/>🤯 **Fun fact:** The QWERTY keyboard was designed to slow you down.
 
 <br/><br/>
