@@ -3,19 +3,27 @@
 ## Hi there 👋
 I'm a FullStack Developer with a degree in Computer Science :computer:
 
+I love coding, solving problems and pushing myself into new grounds.
+
 <!-- <br/> -->
 
-<!-- [![42 stats](https://badge42.herokuapp.com/api/stats/lalexand?privacyEmail=true&darkmode=true&cursus=Basecamp)](https://github.com/JaeSeoKim/badge42) -->
+<!--
+[![42 stats](https://badge42.herokuapp.com/api/stats/lalexand?privacyEmail=true&darkmode=true&cursus=Basecamp)](https://github.com/JaeSeoKim/badge42)
+-->
 
+<!--
 <br/>💬 **About me:** I love coding, solving problems and pushing myself into new grounds.
 <br/>🌱 **I'm currently learning:** Golang.
 <br/>🚀 **I'm currently working:** as Software Developer @ Mercado Livre.
 <br/>🤯 **Fun fact:** The QWERTY keyboard was designed to slow you down.
+-->
 
 <br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Wendel&layout=compact&bg_color=0d1117&title_color=b51414&icon_color=7a120a&text_color=fff)](https://github.com/Luiz-Wendel/Luiz-Wendel)
+<!--
 [![Luiz Wendel's github stats](https://github-readme-stats.vercel.app/api?username=Luiz-Wendel&hide=stars,issues&show_icons=true&bg_color=0d1117&title_color=b51414&icon_color=7a120a&text_color=fff)](https://github.com/Luiz-Wendel/github-readme-stats)
+-->
 
 <br/>
 
@@ -31,6 +39,7 @@ I'm a FullStack Developer with a degree in Computer Science :computer:
   <img title="Mocha" alt="Mocha" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg">
   <img title="MySQL" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img title="Flutter" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></img>
+  <img title="Go" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"></img>
 </section>
 
 <br/>📫 **Contact me:**
